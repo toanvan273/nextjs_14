@@ -19,6 +19,9 @@ export default function Header() {
       <Link className="nav-item" href="/test-ui">
         UI
       </Link>
+      <Link className="nav-item" href="/embbeded">
+        Embbeded
+      </Link>
     </div>
   );
 }
